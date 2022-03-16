@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JesseZeph
 - 👀 I’m interested in ...Full Stack Programming 
-- 🌱 I’m currently learning ... front end
 - 💞️ I’m looking to collaborate on ...html, css and Javascript 
 - 📫 How to reach me on twitter @attattack____ 
 
