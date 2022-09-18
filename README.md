@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesseZeph
 - 👀 I’m interested in ...Full Stack Programming 
 - 💞️ I’m looking to collaborate on ...html, css and Javascript 
-- 📫 How to reach me on twitter @attattack____ 
+- 📫 How to reach me on twitter @fusionTech 
 
 <!---
 JesseZeph/JesseZeph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
