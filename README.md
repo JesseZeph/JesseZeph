@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesseZeph
-- 👀 I’m interested in ...Full Stack Programming 
+- 👀 Full Stack Developer
 - 💞️ I’m looking to collaborate on ...html, css, Javascript, C, Python, Dart and Flutter
 - 📫 How to reach me on twitter @fusionTech 
 
