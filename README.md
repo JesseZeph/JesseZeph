@@ -22,7 +22,7 @@
 - Flutter Developer
 - I teach Python and Front-End web development
 - AltSchool Africa Student
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/113xna1D2oQPz37Uo0aqSwEwh0B88aNiY/view?usp=share_link)
+- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/113xna1D2oQPz37Uo0aqSwEwh0B88aNiY/view?usp=share_link)
 
 <br><br>
 
