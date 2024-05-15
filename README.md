@@ -113,10 +113,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align='center'>
 
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseZeph
-
+## <b>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/JesseZeph/github-readme-quotes)
 </b>
 
 </div>
