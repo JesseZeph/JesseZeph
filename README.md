@@ -16,7 +16,8 @@
 - A passionate Self-taught Full-Stack Developer
 - Flutter Developer
 - AltSchool Africa Alumni
-- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/113xna1D2oQPz37Uo0aqSwEwh0B88aNiY/view?usp=share_link](https://drive.google.com/file/d/1_vCZ3Qqh70afLpfe7ChbaS1zdAeSPe_L/view?usp=sharing)
+- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1_vCZ3Qqh70afLpfe7ChbaS1zdAeSPe_L/view?usp=sharing)
+
 
 <br><br>
 
