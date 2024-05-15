@@ -112,6 +112,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+<div align="center">
+
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseZeph&show_icons=true&theme=transparent&hide=contribs)
+](https://github.com/JesseZeph/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseZeph&layout=compact&show_icons=true&theme=transparent)](https://github.com/JesseZeph/github-readme-stats)
+
+</a>
+</div>
 
 <div align='center'>
 
