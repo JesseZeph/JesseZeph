@@ -11,7 +11,7 @@
 - A passionate Self-taught Full-Stack Web Developer
 - Mobile Developer
 - AltSchool Africa Alumni
-- I’m currently open a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1_vCZ3Qqh70afLpfe7ChbaS1zdAeSPe_L/view?usp=sharing](https://drive.google.com/file/d/1Eb7M7tRhRm8q3n1z1gCFIwyRK23naBVu/view?usp=sharing))
+- I’m currently open a new job opportunity, this is [my resume](https://drive.google.com/file/d/1_vCZ3Qqh70afLpfe7ChbaS1zdAeSPe_L/view?usp=sharing](https://drive.google.com/file/d/1Eb7M7tRhRm8q3n1z1gCFIwyRK23naBVu/view?usp=sharing))
 
 
 <br><br>
