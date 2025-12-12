@@ -11,7 +11,7 @@
 - Full-Stack Web Developer
 - Mobile Developer
 - AltSchool Africa Alumni
-- I’m currently open a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1UM_T0RcKVNREM8ogPbg5kTht4JcRAxVe/view?usp=sharing]))
+- I’m currently open a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1UM_T0RcKVNREM8ogPbg5kTht4JcRAxVe/view?usp=sharing])
 
 
 <br><br>
