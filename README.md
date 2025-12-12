@@ -8,10 +8,10 @@
 
 <br>
 
-- A passionate Self-taught Full-Stack Web Developer
+- Full-Stack Web Developer
 - Mobile Developer
 - AltSchool Africa Alumni
-- I’m currently open a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Eb7M7tRhRm8q3n1z1gCFIwyRK23naBVu/view?usp=sharing)
+- I’m currently open a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1Eb7M7tRhRm8q3n1z1gCFIwyRK23naBVu/view?usp=sharing](https://drive.google.com/file/d/1ItSYJqGELM11kP-CLRr74o-uy150KDpR/view?usp=sharing))
 
 
 <br><br>
@@ -29,6 +29,9 @@
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  	![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  
+  
     
 
 <br>   
@@ -54,6 +57,8 @@
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  
   
 <br>
   
@@ -85,6 +90,7 @@
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 <br>
 
